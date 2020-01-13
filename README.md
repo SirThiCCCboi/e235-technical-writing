@@ -22,4 +22,4 @@ Instructions
 8.	Now place the small triangular piece a top the smooth sided lego and blue lego piece making sure to have the narrow side face the smooth sided Lego. Place the other small triangular piece on the opposite side.
 
 
-![testimage](https://github.com/SirThiCCCboi/e235-technical-writing/blob/master/20200106_160143.jpg)
+![testimage](https://github.com/SirThiCCCboi/e235-technical-writing/blob/master/markdownLegoImage.jpg)
